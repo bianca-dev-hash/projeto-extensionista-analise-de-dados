@@ -1,7 +1,7 @@
 # projeto-extensionista-analise-de-dados
 ---
 
-Este repositório contém os materiais e códigos desenvolvidos no projeto extensionista de **Análise de Dados para E-commerce**, voltado ao suporte de empresas locais na região de Interlagos, São Paulo. Por meio deste projeto, buscamos capacitar empresários a identificar e entender padrões de consumo digital, otimizando a tomada de decisões estratégicas com o uso de dados.
+Este repositório contém os materiais e códigos desenvolvidos no projeto extensionista de **Análise de Dados para E-commerce**, voltado ao suporte de empresas locais na região de Interlagos, São Paulo. Por meio deste projeto, busco capacitar empresários a identificar e entender padrões de consumo digital.
 
 ## Objetivo do Projeto
 Capacitar pequenos empresários locais com técnicas de análise de dados, promovendo melhorias na gestão de e-commerce, marketing digital e na eficiência operacional.
